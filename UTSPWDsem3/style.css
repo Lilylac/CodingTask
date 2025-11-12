@@ -1,0 +1,83 @@
+body {
+  background-color: #f2f2f2;
+  background-image: url(https://khaditarentcar.com/wp-content/uploads/2025/05/Khadita-Rent-Car-Armada-1.png);
+  font-family: Arial, sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container {
+  background-color: white;
+  width: 350px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.logo {
+  display: block;
+  margin: 10px auto;
+  width: 100px;
+  height: auto;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+}
+
+.radioGroup {
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttonGroup {
+  text-align: center;
+  margin-top: 15px;
+}
+
+button {
+  background-color: #008cba;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #00729a;
+}
+
+.batal {
+  background-color: #e74c3c;
+}
+
+.batal:hover {
+  background-color: #c0392b;
+}
+
+.outputContainer {
+  background: #fff;
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+  font-family: monospace;
+}
